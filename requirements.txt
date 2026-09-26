@@ -20,7 +20,7 @@ importlib-metadata==5.0.0
 itsdangerous==2.1.2
 Jinja2==3.1.6
 joblib==1.2.0
-JPype1==1.4.1
+JPype1==1.7.1
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
 konlpy==0.6.0
