@@ -65,6 +65,6 @@ urllib3==2.7.0
 Werkzeug==3.1.9
 wincertstore==0.2
 wrapt==1.12.1
-zipp==3.19.1
+zipp==4.1.0
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==2.14.0
